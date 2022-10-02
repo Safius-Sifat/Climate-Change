@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A project for Nasa Web App Challenge",
+    "description": "A project for Nasa Space App Challenge",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
