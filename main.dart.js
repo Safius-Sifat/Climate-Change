@@ -31503,10 +31503,10 @@ p=r===s?0:p/(r-s)*o
 m.nY(new A.a20(s,r,!1,m.gMf(),o,p,B.b4))
 this.aV()},
 m(){this.guu(this).gjR()},
-G(a){var s,r=null,q=A.cI("assets/images/neon.png",B.kl,r,this.a.c.a),p=this.e
+G(a){var s,r=null,q=A.cI("assets/images/neon2.png",B.kl,r,this.a.c.a),p=this.e
 p===$&&A.e()
 s=t.p
-return A.cm(r,A.fs(A.a([A.jB(B.aQ,A.a([q,A.hb(10,A.a5U(A.eN(A.cI("assets/images/poster2.png",r,r,r),600,600),p),r,r,r,20,r,r),A.hb(r,A.l6(r,r,B.am,r,r,!0,r,A.bT(A.a([A.bT(r,A.bk(B.aH,20,B.m),"Challenge: How does climate change affect us"),A.bT(r,A.bk(B.h,50,B.m),"\nPresenting the actual pictures\nwith some tricks!"),A.bT(r,A.bk(B.b8,17,B.m),"\n\nEffects of Climate Change on us and "),A.bT(r,A.bk(B.b8,17,B.m),"Futuristic Mechanism to \nAbsorb Industrial Flue Gases")],t.nO),r,r),B.av,r,r,1,B.Z),r,r,20,r,270,r)],s),B.b2)],s),B.z,B.qL,B.B),r,B.vs,r,r,r,r,r)}}
+return A.cm(r,A.fs(A.a([A.jB(B.aQ,A.a([q,A.hb(10,A.a5U(A.eN(A.cI("assets/images/poster1.png",r,r,r),600,600),p),r,r,r,20,r,r),A.hb(r,A.l6(r,r,B.am,r,r,!0,r,A.bT(A.a([A.bT(r,A.bk(B.aH,20,B.m),"Challenge: How does climate change affect us"),A.bT(r,A.bk(B.h,50,B.m),"\nPresenting the actual pictures\nwith some tricks!"),A.bT(r,A.bk(B.b8,17,B.m),"\n\nEffects of Climate Change on us and "),A.bT(r,A.bk(B.b8,17,B.m),"Futuristic Mechanism to \nAbsorb Industrial Flue Gases")],t.nO),r,r),B.av,r,r,1,B.Z),r,r,20,r,270,r)],s),B.b2)],s),B.z,B.qL,B.B),r,B.vs,r,r,r,r,r)}}
 A.JR.prototype={
 bp(){this.dn()
 this.cB()
